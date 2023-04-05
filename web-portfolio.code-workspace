@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"titleBar.activeBackground": "#3d7592",
+			"titleBar.activeForeground": "#FFFFFF",
+			"titleBar.inactiveBackground": "#3d7592",
+			"titleBar.inactiveForeground": "#FFFFFF",
+			"activityBar.background": "#3d7592",
+			"activityBar.foreground": "#FFFFFF",
+			"activityBar.inactiveForeground": "#FFFFFF"
+		},
+		"files.autoSave": "afterDelay"
+	}
+}

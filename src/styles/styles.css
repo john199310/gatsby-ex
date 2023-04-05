@@ -1,0 +1,39 @@
+body {
+  background-color: #212121;
+  color: white;
+}
+
+.nav-link-active {
+  text-decoration: underline;
+  text-underline-position: below;
+}
+
+.no-decoration {
+  text-decoration: none;
+}
+
+.nav-link {
+  padding: 0px 12px;
+  color: #E0E0E0;
+}
+
+.nav-link:hover, .nav-link:focus {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.layout-default {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: unset;
+}
+
+@media only screen and (max-width: 992px) {
+  .layout-default {
+    flex-direction: column;
+  }
+  .text-section {
+    text-align: center;
+    width: 100% !important;
+  }
+}

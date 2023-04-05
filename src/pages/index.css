@@ -1,0 +1,10 @@
+.header-style {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.text-section {
+  color: white;
+  flex-grow: 1;
+  width: 448px;
+}
